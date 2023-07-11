@@ -1,4 +1,0 @@
-#program to print a string
-
-str=input("please enter a string : ")
-print(len(str))
