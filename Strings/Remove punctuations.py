@@ -1,4 +1,4 @@
-#python program
+#python program to remove punctuations from a string
 import string
 
 str1 = "/*Jon is @developer & musician"
