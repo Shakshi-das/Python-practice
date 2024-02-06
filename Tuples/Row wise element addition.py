@@ -1,3 +1,4 @@
+#program for row wise elements addition in a tuple matrix
 # initializing list
 
 test_list = [[('Gfg', 3), ('is', 3)], [('best', 1)], [('for', 5), ('geeks', 1)]]
