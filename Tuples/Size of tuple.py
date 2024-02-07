@@ -1,3 +1,4 @@
+#program to get size of tuples
 import sys
  
 # sample Tuples
