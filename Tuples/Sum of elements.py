@@ -1,6 +1,6 @@
+#program to calculate sum of elements in a tuple
 def summation(test_tup):
  
-
     # Converting into list
 
     test = list(test_tup)
