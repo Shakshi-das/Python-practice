@@ -1,15 +1,12 @@
 #program to remove tuples of length k 
 
 # initializing list
-
 test_list = [(4, 5), (4, ), (8, 6, 7), (1, ), (3, 4, 6, 7)]
  
 # printing original list
-
 print("The original list : " + str(test_list))
  
 # initializing K 
-
 K = 1
  
 # 1 liner to perform task
@@ -19,5 +16,4 @@ K = 1
 res = [ele for ele in test_list if len(ele) != K]
  
 # printing result 
-
 print("Filtered list : " + str(res))
