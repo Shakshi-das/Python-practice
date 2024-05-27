@@ -10,15 +10,12 @@ sp=0
 for i in range(0, len (st)):
 
     if (st[i].isalpha ()) :
-
        a=a+1
 
     elif (st[i].isdigit()):
-
        d=d+1
 
     elif (st[i].isspace ()):
-
        sp=sp+1
 
     else:
